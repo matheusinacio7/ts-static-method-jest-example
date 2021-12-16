@@ -5,6 +5,6 @@ describe('Form constructor', () => {
   it('constructs a new Form instance with default values', () => {
     const testQuote = new Quote();
     expect(testQuote.author).toBe('Uncle Ben');
-    expect(testQuote.advice).toBe('With great power comes great responsibility.');
+    expect(testQuote.content).toBe('With great power comes great responsibility.');
   });
 });

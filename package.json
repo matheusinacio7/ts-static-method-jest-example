@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "ts-node index.js",
-    "test": "ts-jest"
+    "test": "jest"
   },
   "dependencies": {
     "ts-node": "^10.4.0"
