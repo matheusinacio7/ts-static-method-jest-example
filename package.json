@@ -2,5 +2,9 @@
   "name": "static-example",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ts-jest": "^27.1.1",
+    "ts-node": "^10.4.0"
+  }
 }
